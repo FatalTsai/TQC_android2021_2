@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/chene/OneDrive/2021Andorid/uploadhomework/109/app/src/main/res/layout/main.xml" value="0.28396739130434784" />
+        <entry key="..\:/Users/chene/OneDrive/2021Andorid/uploadhomework/109/app/src/main/res/layout/my_msg_handler.xml" value="0.28396739130434784" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
